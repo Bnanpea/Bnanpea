@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+- 👋 Hi, I’m @Bnanpea
+- 👀 I’m interested in open source development
+- 💞️ I’m looking to collaborate on any amazing and interesting projects
+- 📫 you can reach out to me on linkedin | facebook 
 <!--
 **Bnanpea/Bnanpea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
